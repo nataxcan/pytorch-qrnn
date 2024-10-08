@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+PyTorch_QRNN.egg-info/PKG-INFO
+PyTorch_QRNN.egg-info/SOURCES.txt
+PyTorch_QRNN.egg-info/dependency_links.txt
+PyTorch_QRNN.egg-info/top_level.txt
+torchqrnn/__init__.py
+torchqrnn/forget_mult.py
+torchqrnn/qrnn.py
