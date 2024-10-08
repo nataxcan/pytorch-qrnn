@@ -1,3 +1,8 @@
+> Notes from person who forked this repo (nataxcan):
+>
+> the original codebase used outdated features, this repo
+> is meant to be able to run and train properly on Nvidia GPUs
+
 # Quasi-Recurrent Neural Network (QRNN) for PyTorch
 
 Updated to support multi-GPU environments via `DataParallel` - see the the `multigpu_dataparallel.py` example.
